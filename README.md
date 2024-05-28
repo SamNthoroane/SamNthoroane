@@ -2,7 +2,7 @@
 
 <h2> 📊📈Data Engineering Projects:</h2>
 
-  - [Machine Learning Pipeline for Airfoil Noise Prediction)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Machine Learning Pipeline for Airfoil Noise Prediction)]( https://github.com/SamNthoroane/Machine-Learning-Pipeline/tree/main)
   - [Streaming ETL Pipeline using Kafka](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Historical Weather Forecast comparison to actuals](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [Extract Transform Load GDP Data](https://github.com/joshmadakor1/Sentinel-Lab)
