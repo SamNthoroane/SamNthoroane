@@ -3,12 +3,12 @@
 <h2> 📊📈Data Engineering Projects:</h2>
 
   - [Machine Learning Pipeline for Airfoil Noise Prediction)]( https://github.com/SamNthoroane/Machine-Learning-Pipeline/tree/main)
-  - [Streaming ETL Pipeline using Kafka](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Data Processing using Spark](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Historical Weather Forecast comparison to actuals](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [Extract Transform Load GDP Data](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Working with a real dataet (Web Scraping)](https://github.com/joshmadakor1/EncrypterPOC)
   
-<h2>Certifications</h2>
+<h2> 📄Certifications</h2>
 
   - [IBM Introduction to Data Engineering](https://coursera.org/share/f5961f2b344af16d840c6d4066c194a5)
 <h2> 💻📱Mobile Application Development Projects: </h2>
