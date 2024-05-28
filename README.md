@@ -2,7 +2,7 @@
 
 <h2> 📊📈Data Engineering Projects:</h2>
 
-  - [Machine Learning Pipeline for Airfoil Noise Prediction)]( https://github.com/SamNthoroane/Machine-Learning-Pipeline/tree/main)
+  - [Machine Learning Pipeline for Airfoil Noise Prediction]( https://github.com/SamNthoroane/Machine-Learning-Pipeline/tree/main)
   - [Data Processing using Spark](https://github.com/SamNthoroane/Data-Processing-using-Spark/tree/main)
   - [Historical Weather Forecast comparison to actuals](https://github.com/SamNthoroane/Historical-Weather-Forecast-Comparison-to-Actuals/tree/main) 
   - [Extract Transform Load GDP Data](https://github.com/SamNthoroane/Extract-Transform-Load-GDP-Data/tree/main)
