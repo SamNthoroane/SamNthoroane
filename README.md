@@ -5,7 +5,7 @@
   - [Machine Learning Pipeline for Airfoil Noise Prediction)]( https://github.com/SamNthoroane/Machine-Learning-Pipeline/tree/main)
   - [Data Processing using Spark](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Historical Weather Forecast comparison to actuals](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-  - [Extract Transform Load GDP Data](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Extract Transform Load GDP Data](https://github.com/SamNthoroane/Extract-Transform-Load-GDP-Data/tree/main)
   - [Working with a real dataet (Web Scraping)](https://github.com/joshmadakor1/EncrypterPOC)
   
 <h2> 📄Certifications</h2>
