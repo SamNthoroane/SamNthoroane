@@ -6,7 +6,7 @@
   - [Data Processing using Spark](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Historical Weather Forecast comparison to actuals](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [Extract Transform Load GDP Data](https://github.com/SamNthoroane/Extract-Transform-Load-GDP-Data/tree/main)
-  - [Working with a real dataet (Web Scraping)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Working with a real dataset (Web Scraping)](https://github.com/joshmadakor1/EncrypterPOC)
   
 <h2> 📄Certifications</h2>
 
