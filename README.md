@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam! </h1>
+<h1>Hi, I'm Sam!</h1>
 
 <h2> 📊📈Data Engineering Projects:</h2>
 
