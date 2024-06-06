@@ -4,9 +4,9 @@
 
   - [Automated Information Processing ETL on GDP Data](https://github.com/SamNthoroane/Extract-Transform-Load-GDP-Data/tree/main)
   - [Data Processing using Spark](https://github.com/SamNthoroane/Data-Processing-using-Spark/tree/main)
-  - [Machine Learning Pipeline for Airfoil Noise Prediction]( https://github.com/SamNthoroane/Machine-Learning-Pipeline/tree/main)
+   <!-- - [Machine Learning Pipeline for Airfoil Noise Prediction]( https://github.com/SamNthoroane/Machine-Learning-Pipeline/tree/main)
   - [Historical Weather Forecast comparison to actuals](https://github.com/SamNthoroane/Historical-Weather-Forecast-Comparison-to-Actuals/tree/main) 
-  - [Working with a real dataset (Web Scraping)](https://github.com/SamNthoroane/Working-with-a-Real-Dataset-Web-Scraping-/tree/main)
+  - [Working with a real dataset (Web Scraping)](https://github.com/SamNthoroane/Working-with-a-Real-Dataset-Web-Scraping-/tree/main)  -->
   
 <h2> 📄Certifications</h2>
 
