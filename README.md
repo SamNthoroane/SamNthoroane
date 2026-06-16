@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sam!</h1>
+<h1>Hi, I'm Sam! Here are a few cool projects I have worked on</h1>
 
 <h2> 🎮🕹️C++ Projects:</h2>
 
